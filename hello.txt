@@ -1,5 +1,7 @@
+hello sizan
 hello miraj
 working tree clean
 sizan is my friend
+this is my toy
 git local and remote repository
 miraj
